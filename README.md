@@ -1,6 +1,2 @@
-# hello-world
-just another repository 
-Hi
-
-
-i like coding 
+# Test
+This readme is for testing
